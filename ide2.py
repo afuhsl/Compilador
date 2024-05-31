@@ -1,9 +1,8 @@
 import tkinter as tk
 from tkinter import ttk, filedialog
-from analisador import Lexer
+from analizador import Lexer
 from PIL import Image, ImageTk
 class IDE(tk.Tk):
-   
     def __init__(self):
         super().__init__()
         self.title("Compilador")
