@@ -1,0 +1,80 @@
+[
+    {
+        "Nombre": "a",
+        "Tipo": "int",
+        "Valor": 16,
+        "Linea": [
+            2,
+            4,
+            6,
+            8,
+            9
+        ]
+    },
+    {
+        "Nombre": "b",
+        "Tipo": "int",
+        "Valor": 16,
+        "Linea": [
+            2,
+            5,
+            6
+        ]
+    },
+    {
+        "Nombre": "c",
+        "Tipo": "int",
+        "Valor": 144,
+        "Linea": [
+            2,
+            11
+        ]
+    },
+    {
+        "Nombre": "d",
+        "Tipo": "int",
+        "Valor": 135,
+        "Linea": [
+            2,
+            10
+        ]
+    },
+    {
+        "Nombre": "y",
+        "Tipo": "double",
+        "Valor": 1,
+        "Linea": [
+            3,
+            7,
+            8
+        ]
+    },
+    {
+        "Nombre": "suma",
+        "Tipo": "int",
+        "Valor": 7,
+        "Linea": [
+            2,
+            12
+        ]
+    },
+    {
+        "Nombre": "x",
+        "Tipo": "double",
+        "Valor": 16,
+        "Linea": [
+            3,
+            8,
+            11
+        ]
+    },
+    {
+        "Nombre": "z",
+        "Tipo": "double",
+        "Valor": 4.0,
+        "Linea": [
+            3,
+            9
+        ]
+    }
+]
